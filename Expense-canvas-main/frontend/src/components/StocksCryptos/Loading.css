@@ -1,0 +1,22 @@
+.loading-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #3498db, #8563e5);
+  }
+  
+  .loading-bounce {
+    width: 40px;
+    height: 40px;
+    background-color:burlywood;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .loading-text {
+    font-size: 18px;
+    color: #333;
+  }
+  

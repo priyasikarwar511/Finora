@@ -1,0 +1,30 @@
+.coin {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(220, 210, 210);
+  color: rgb(228, 143, 143);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+}
+
+.coin img {
+  height: 90px;
+  margin: auto;
+}
+
+
+span {
+  margin: 4px 4px 4px 4px;
+
+}
+#add{
+  color:white;
+  background-color: blue;
+  border-radius: 5px;
+  margin-left:80%;
+  margin-top: 1%;
+  
+
+}
